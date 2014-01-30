@@ -12,7 +12,7 @@ $data = <<<STRING
 
 <contact id="98765">
     <Group_Tag name="Contact Information">
-        <field name="E-Mail">test@test.com</field>
+        <field name="Email">test@test.com</field>
     </Group_Tag>
 </contact>
 STRING;

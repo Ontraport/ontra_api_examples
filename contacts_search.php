@@ -8,11 +8,11 @@ $data = <<<STRING
 		<field>First Name</field>
 		<op>e</op>
 		<value>Multiple,First,Names</value>
-		<field>Last Name</field>
 	</equation>
 	<equation>
+		<field>Last Name</field>
 		<op>n</op>
-		<value>Man</value>
+		<value>Jones</value>
 	</equation>
 </search>
 STRING;

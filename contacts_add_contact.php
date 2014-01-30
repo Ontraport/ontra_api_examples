@@ -6,7 +6,7 @@ $data = <<<STRING
     <Group_Tag name="Contact Information">
         <field name="First Name">Tim</field>
         <field name="Last Name">Lincecum</field>
-        <field name="E-Mail">t.lincecum@test.com</field>
+        <field name="Email">t.lincecum@test.com</field>
     </Group_Tag>
     <Group_Tag name="Sequences and Tags">
         <field name="Contact Tags">Test</field>
