@@ -24,7 +24,7 @@ $key = "XXXXXXXXXXX";
 
 $reqType= "log_transaction";
 $postargs = "appid=".$appid."&key=".$key."&reqType=".$reqType."&data=".$data;
-$request = "https://api.moon-ray.com/pdata.php";
+$request = "https://api.ontraport.com/pdata.php";
 
 $session = curl_init($request);
 curl_setopt ($session, CURLOPT_POST, true);

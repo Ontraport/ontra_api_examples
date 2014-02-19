@@ -9,7 +9,7 @@ $key = "XXXXXXXXXXXXXXXX";
 
 $reqType= "fetch_notes";
 $postargs = "appid=".$appid."&key=".$key."&reqType=".$reqType."&data=".$data;
-$request = "http://api.moon-ray.com/cdata.php";
+$request = "http://api.ontraport.com.com/cdata.php";
 
 $session = curl_init($request);
 curl_setopt ($session, CURLOPT_POST, true);
