@@ -5,9 +5,6 @@ $data = <<<STRING
     <Group_Tag name="Product Details">
         <field name="Name">New Product</field>
         <field name="Price">250.00</field>
-        <field name="Description">This is a new product</field>
-        <field name="Commission (Level 1)">25</field>
-        <field name="Commission (Level 2)">10</field>
     </Group_Tag>
 </product>
 STRING;
